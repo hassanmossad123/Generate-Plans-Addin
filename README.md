@@ -4,10 +4,10 @@
 A powerful Revit add-in that automatically generates floor and ceiling plans for selected levels and disciplines.
 
 ## ✨ Features
-- Automatic plan generation
-- Multiple disciplines support
-- User-friendly interface
-- Time-saving tool
+✅ Automatic plan generation
+✅ Multiple disciplines support
+✅ User-friendly interface
+✅ Time-saving tool
   
 ##  📸 Screenshots
 - Main Interface
@@ -15,8 +15,8 @@ A powerful Revit add-in that automatically generates floor and ceiling plans for
 User-friendly interface for selecting levels and disciplines
 
 ## 🚀  Installation
-- 1. Copy generate_floor_ceiling_plans.dll and GenerateFloorCeilingPlans.addin to:
-  C:\ProgramData\Autodesk\Revit\Addins\2024\
+- 1. Copy `generate_floor_ceiling_plans.dll` and `generate_floor_ceiling_plans.addin` to:
+  `C:\ProgramData\Autodesk\Revit\Addins\2024\`
 - 2. Restart Revit
 - 3. Use the tool!
 
