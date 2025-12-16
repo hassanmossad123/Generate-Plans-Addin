@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<RevitAddIns>
+ 
+	<AddIn Type="Application">
+
+		<Name>Genertate Plans For Electrical Discipline</Name>
+
+		<FullClassName>generate_floor_ceiling_plans.Application</FullClassName>
+
+		<Text>Genertate Plans For Electrical Discipline</Text>
+
+		<Description>generate floor,ceiling plans for specific levels</Description>
+
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+
+		<Assembly>generate_floor_ceiling_plans.dll</Assembly>
+
+		<AddInId>
+			B8AA4525-2AE5-4DBD-83DE-C0B9F6C8BA1E
+		</AddInId>
+
+		<VendorId>Hassan Mossad</VendorId>
+
+		<VendorDescription>Hassan Mossad, Electrical BIM Engineer, Revit Developer</VendorDescription>
+
+	</AddIn>
+
+</RevitAddIns>
