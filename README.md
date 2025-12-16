@@ -11,7 +11,7 @@ A powerful Revit add-in that automatically generates floor and ceiling plans for
   
 ##  📸 Screenshots
 - Main Interface
-- https://screenshots/main-interface.png](https://i.postimg.cc/MKr5sLw4/Addin.png
+- https://ibb.co/395g1x5R
 User-friendly interface for selecting levels and disciplines
 
 ## 🚀  Installation
