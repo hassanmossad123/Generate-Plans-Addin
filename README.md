@@ -22,11 +22,11 @@ User-friendly interface for selecting levels and disciplines
 
 ## 🛠️ Usage
 Step-by-Step Guide
-- Launch the tool from Revit's "Plan Generation" tab
+- Launch the tool from Revit's "Tools" tab then click at "Add Plans" Push Button
 - Select target level(s) - Single or "All Levels"
 - Choose disciplines to generate plans for
 - Configure floor/ceiling plan options per discipline
-- Click "Generate Plans"
+- Click "Generate" Button
 
 ## 👨‍💻 Author
 [Hassan Mossad El-Kady] [https://www.linkedin.com/in/hassan-mossad-282278228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
